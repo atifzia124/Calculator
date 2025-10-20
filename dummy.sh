@@ -1,1 +1,1 @@
-echo "adding two numbers"
+echo "adding 3 numbers"
